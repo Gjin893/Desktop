@@ -1,0 +1,27 @@
+h1{
+    color: brown;
+    text-decoration: underline;
+
+}
+button{
+    margin-left: 900px;
+    margin-bottom: 200px;
+    padding: 20px;
+    color: blue;
+}
+.number{
+    width: 500px;
+    height: 500px;
+}
+.number img{
+    height: 300px;
+    width: 500px;
+    border: 2px dotted red;
+    padding-left: 300px;
+    padding-top: 100px;
+}
+body{
+    background-image: url(verse.png);
+    background-size: cover;
+  
+}
